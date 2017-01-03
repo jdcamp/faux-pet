@@ -1,0 +1,27 @@
+h1 {
+  font-family: cursive;
+  text-align: center;
+  background-color: teal;
+  margin: 200;
+}
+h2 {
+  background-color: teal;
+  padding-left: 20px;
+  text-align: end;
+}
+h3 {
+  background-color: teal;
+  padding-left: 40px;
+}
+p {
+  background-color: teal;
+  padding-left: 100px;
+}
+ul {
+  background-color: teal;
+  padding-left: 60px;
+}
+ol {
+  background-color: teal;
+  margin: auto;
+}
